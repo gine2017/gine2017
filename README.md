@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gine2017
-- 👀 I’m interested spicy Javascript, Design, iOS development, and all things front-end development 
-- 🌱 I’m currently taking time to polish my React skills by taking a React course. I also take time to work on my personal projects  
-- 💞️ I’m looking to collaborate with a diverse group of people that not only want to help grow a company's mission but also help me grow as a developer 
+- 👋 Hi, I’m @gine2017, Regine Thimothee
+- 👀 I’m interested in UI/UX Design
+- 🌱 I’m currently taking time to refine my UI/UX skills by enrolling myself in the Springboard bootcamp 
+- 💞️ I’m looking to collaborate with a diverse group of people that not only want to help grow a company's mission but also help me grow as a designer 
 - 📫 How to reach me  Email: ginou10@msn.com
 
 <!---
